@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+<img src="https://github.com/user-attachments/assets/9c423d6d-3570-4581-8830-d167888e1271" width=200px height=200px>
 <!--
 **pavithradmanoj/pavithradmanoj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
